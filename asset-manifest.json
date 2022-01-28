@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-buscador_canciones_curso_jonMircha/static/css/main.244922c9.css",
+    "main.js": "/react-buscador_canciones_curso_jonMircha/static/js/main.baec16f9.js",
+    "static/js/787.9c1f1dbc.chunk.js": "/react-buscador_canciones_curso_jonMircha/static/js/787.9c1f1dbc.chunk.js",
+    "index.html": "/react-buscador_canciones_curso_jonMircha/index.html",
+    "main.244922c9.css.map": "/react-buscador_canciones_curso_jonMircha/static/css/main.244922c9.css.map",
+    "main.baec16f9.js.map": "/react-buscador_canciones_curso_jonMircha/static/js/main.baec16f9.js.map",
+    "787.9c1f1dbc.chunk.js.map": "/react-buscador_canciones_curso_jonMircha/static/js/787.9c1f1dbc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.244922c9.css",
+    "static/js/main.baec16f9.js"
+  ]
+}
